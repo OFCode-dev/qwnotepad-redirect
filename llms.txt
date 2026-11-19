@@ -1,0 +1,3 @@
+# Quick Web Notepad
+
+> Quick Web Notepad has moved to https://quickwebnotepad.com/ . See https://quickwebnotepad.com/llms.txt
